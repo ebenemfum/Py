@@ -1,0 +1,6 @@
+Create a program that requests and accepts input from the user to generate a specified number of hashtags 
+specification of hashtags to be generated is based on height and width
+
+PSEUDOCODE
+1.Ask for data 
+2.Develop for loop to generate number of hashtags in terms of width and length or coumn and row
